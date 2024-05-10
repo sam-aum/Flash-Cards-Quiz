@@ -1,6 +1,8 @@
 # CS50P Final Project
 This is the Final Project in the HarvardX course CS50P - CS50's Introduction to Programming with Python
 
+https://cs50.harvard.edu/python/2022/project/
+
 ## Flash Card Quiz
 #### [Video Demo](https://youtu.be/inKf5plKhS8)
 
